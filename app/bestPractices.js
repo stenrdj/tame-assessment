@@ -12,7 +12,7 @@ exports.bestPracticesAnswers = {
     myObject = {
       name: 'Jory'
     };
-
+      window.myObject = myObject;
     return myObject;
   },
 
